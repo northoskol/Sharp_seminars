@@ -1,0 +1,15 @@
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\ex005.csproj.AssemblyReference.cache
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\ex005.GeneratedMSBuildEditorConfig.editorconfig
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\ex005.AssemblyInfoInputs.cache
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\ex005.AssemblyInfo.cs
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\ex005.csproj.CoreCompileInputs.cache
+F:\GITed\C# sharp\seminars\seminar02\ex005\bin\Debug\net7.0\ex005.exe
+F:\GITed\C# sharp\seminars\seminar02\ex005\bin\Debug\net7.0\ex005.deps.json
+F:\GITed\C# sharp\seminars\seminar02\ex005\bin\Debug\net7.0\ex005.runtimeconfig.json
+F:\GITed\C# sharp\seminars\seminar02\ex005\bin\Debug\net7.0\ex005.dll
+F:\GITed\C# sharp\seminars\seminar02\ex005\bin\Debug\net7.0\ex005.pdb
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\ex005.dll
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\refint\ex005.dll
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\ex005.pdb
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\ex005.genruntimeconfig.cache
+F:\GITed\C# sharp\seminars\seminar02\ex005\obj\Debug\net7.0\ref\ex005.dll
