@@ -25,7 +25,7 @@ void Square(int value)
     for (int i = 1; i <= value; i++)
     {
         int square = i * i;
-        Console.WriteLine(square);
+        Console.Write(square + " ");
     }
 }
 
