@@ -1,0 +1,5 @@
+F:\GITed\C# sharp\seminars\seminar05\ex003\obj\Debug\net7.0\ex003.csproj.AssemblyReference.cache
+F:\GITed\C# sharp\seminars\seminar05\ex003\obj\Debug\net7.0\ex003.GeneratedMSBuildEditorConfig.editorconfig
+F:\GITed\C# sharp\seminars\seminar05\ex003\obj\Debug\net7.0\ex003.AssemblyInfoInputs.cache
+F:\GITed\C# sharp\seminars\seminar05\ex003\obj\Debug\net7.0\ex003.AssemblyInfo.cs
+F:\GITed\C# sharp\seminars\seminar05\ex003\obj\Debug\net7.0\ex003.csproj.CoreCompileInputs.cache
